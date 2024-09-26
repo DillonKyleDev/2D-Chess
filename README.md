@@ -11,7 +11,7 @@ This is a simple 2 player 2D chess game made using the 2D game engine that I dev
 
 ## Purpose
 
-This project was a way for me to test the usability and the overall functionallity of my engine, "FlatEngine".  I was able to see where parts of the engine need work and which parts work well.
+This project was a way for me to test the usability and the overall functionallity of my 2D game engine, FlatEngine.  I was able to see where parts of the engine need work and which parts work well.
 
 ## Things Learned
 
