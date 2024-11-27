@@ -7,7 +7,7 @@
 
 ## To Play ##
 
-1. Download the .exe
+1. Download the release .zip file from "Releases" on the right-hand sidebar
 2. Extract
 3. Run the SimpleChess.exe file
 
