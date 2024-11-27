@@ -5,6 +5,12 @@
 ![FlatEngine 3_20_2024 3_28_27 PM](https://github.com/DillonKyleDev/2D-Chess/assets/82423961/42a2cfe0-bce6-47d9-be3e-59dd13ba5313)
 
 
+## To Play ##
+
+1. Download the .exe
+2. Extract
+3. Run the SimpleChess.exe file
+
 ## Description:
 
 This is a simple 2 player 2D chess game made using the 2D game engine that I developed.
