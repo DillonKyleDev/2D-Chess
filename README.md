@@ -7,6 +7,8 @@
 
 ## To Play ##
 
+The release available above is outdated.  For the latest version download from the "Releases" section on the right-hand sidebar.
+
 1. Download the release .zip file from "Releases" on the right-hand sidebar
 2. Extract
 3. Run the SimpleChess.exe file
